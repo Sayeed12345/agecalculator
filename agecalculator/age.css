@@ -1,0 +1,26 @@
+age {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input[type="date"] {
+    border-radius: 5px;
+    height: 20px;
+    border-color: green;
+    outline-color: indigo;
+}
+
+input[type="submit"] {
+    border-radius: 5px;
+    height: 25px;
+    border-color: green;
+    outline-color: indigo;
+    color: white;
+    background-color: violet;
+}
+
+p {
+    text-align: center;
+    color: darkblue;
+}
